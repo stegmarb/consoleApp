@@ -1,0 +1,1 @@
+﻿Csináljunk egy console-os alkalmazást menüvel. Használjuk a tanult programtervezési tételeket.Bemenet: <input_file.txt> <menüpont>Menüpontok:1. számoljuk meg a sorok számát a szövegben2. számoljuk meg a szavak számát a szövegben3. válasszuk ki a leghosszabb szót a szövegből
